@@ -2,9 +2,11 @@
 <!-- ![Graphic-Design-Webinar-Presentation (1)]() -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hammadpervez&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadpervez&layout=compact&theme=prussian)](https://github.com/hammadpervez/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadpervez&show_icons=true&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadpervez&layout=compact&theme=prussian)](https://github.com/hammadpervez/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
